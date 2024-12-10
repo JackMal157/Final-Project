@@ -37,45 +37,40 @@ h1 {
 }
 
 h2 {
+    padding: 100px;
+    margin-left: 500px;
+  
+}
+  
+.webproj-img {
+    float: right;
     padding: 50px;
-    margin-left: 550px;
 }
   
-  .webproj-img {
-      float: right;
-      padding-left: 200px;
-      margin-right: 50px;
+.webproj-img img {
+    width: 100px;
+    height: 100px;
+    max-width: 100%;
+    max-height: 100%;
 }
   
-  .webproj-img img {
-      width: 12%;
-      height: 12%;
-      max-width: 100%;
-      max-height: 100%;
+.commplan-img {
+    float: right;
+    margin-right: 50px;
 }
   
-  .commplan-img {
-      float: right;
-      padding-left: 200px;
-      margin-right: 50px;
+.commplan-img img {
+    width: 100px;
+    height: 100px;
+    max-width: 100%;
+    max-height: 100%;
 }
   
-  .commplan-img img {
-      width: 12%;
-      height: 12%;
-      max-width: 100%;
-      max-height: 100%;
-}
-
-  .Post {
-    border-bottom: 1px solid #fff;
-}
-  
-  p {
-      line-height: 1.2em;
-      width: 800px;
-      margin: 8px;
-      padding-right: 50px;
+p {
+    line-height: 1.2em;
+    width: 800px;
+    margin: 8px;
+    padding-right: 50px;
 }
 
 .Xpansetxt {
