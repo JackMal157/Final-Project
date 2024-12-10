@@ -75,25 +75,22 @@ p {
     margin: 8px;
 }
 
-.professional-experience {
-    
-}
-
-.skills {
-    float: right;
-    padding: 0 500px 130px 0;
+.career {
+    padding: 120px 0 0 600px;
 }
   
 .resume-txt {
     line-height: 1.89em;
     width: 700px;
     margin: 10px;
-    padding: 0 0 0 130px;
+    padding: 0 0 0 320px;
     display: flex;
 }
   
 aside {
     padding: 0 0 130px 0;
 }
+
+
 
 
