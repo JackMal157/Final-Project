@@ -37,7 +37,7 @@ h1 {
 }
 
 h2 {
-    padding: 100px;
+    padding: 50px;
     margin-left: 500px;
   
 }
@@ -61,6 +61,7 @@ h2 {
 .commplan-img {
     float: right;
     margin-right: 50px;
+    padding: 50px;
 }
   
 .commplan-img img {
