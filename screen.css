@@ -8,12 +8,11 @@ body {
    line-height: 1.89em;
     width: 500px;
     margin: 10px;
-    padding: 100px 0 0 75px;
+    padding: 0 0 0 415px;
 }
 
 .homeimg {
-    float: right;
-    padding: 0 300px 0 0;
+    padding: 200px 0 0 500px;
 }
 
 .homeimg img {
