@@ -6,15 +6,14 @@ body {
 
 .homepagetxt {
    line-height: 1.89em;
-    width: 1000px;
+    width: 500px;
     margin: 10px;
-    padding-top: 100px;
-    padding-left: 130px;
+    padding: 100px 0 0 75px;
 }
 
 .homeimg {
     float: right;
-    padding-left: 200px;
+    padding: 0 300px 0 0;
 }
 
 .homeimg img {
@@ -36,21 +35,21 @@ h1 {
   position: absolute;
 }
 
-h2 {
+.projects {
     padding: 90px 0 90px 170px;
     margin-left: 500px;
 }
 
 .commplan-txt {
-    padding: 0 0 75px 300px;
+    padding: 0 0 75px 350px;
 }
 
 .webproj-txt {
-  padding: 0 0 75px 300px;
+  padding: 0 0 75px 350px;
 }
   
 .webproj-img {
-   padding: 0 0 0 475px;
+   padding: 0 0 0 500px;
 }
   
 .webproj-img img {
@@ -61,7 +60,7 @@ h2 {
 }
   
 .commplan-img {
-    padding: 0 0 0 475px;
+    padding: 0 0 0 500px;
 }
   
 .commplan-img img {
@@ -77,28 +76,21 @@ p {
     margin: 8px;
 }
 
-.Xpansetxt {
-    line-height: 1.89em;
-    width: 1000px;
-    margin: 10px;
-    padding-top: 100px;
-    padding-left: 130px;
+.skills {
+    float: right;
+    padding: 0 500px 130px 0;
 }
-
-.potbellytxt {
+  
+.resume-txt {
     line-height: 1.89em;
-    width: 1000px;
+    width: 700px;
     margin: 10px;
-    padding-top: 300px;
-    padding-left: 130px;
+    padding: 0 0 0 130px;
+    display: flex;
 }
-
-.skilltxt {
-    line-height: 1.89em;
-    width: 1000px;
-    margin: 10px;
-    padding-top: 300px;
-    padding-right: 130px;
+  
+aside {
+    padding: 0 0 130px 0;
 }
 
 
