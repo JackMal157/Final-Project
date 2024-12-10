@@ -5,7 +5,6 @@ body {
 }
 
 .homeimg {
-    background: no-repeat bottom / cover url(Homepagepic.jpg);
     height: 250px;
     border-radius: 20px;
     padding-right: 500px;
