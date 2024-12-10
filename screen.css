@@ -39,47 +39,44 @@ h1 {
 h2 {
     padding: 50px;
     margin-left: 550px;
-  }
+}
   
   .webproj-img {
       float: right;
       padding-left: 200px;
       margin-right: 50px;
-  }
+}
   
   .webproj-img img {
       width: 400px;
       height: 350px;
       max-width: 100%;
       max-height: 100%;
-  }
+}
   
   .commplan-img {
       float: right;
-      padding-left: 150px;
+      padding-left: 200px;
       margin-right: 50px;
-  }
+}
   
   .commplan-img img {
-      width: 12%;
-      height: 12%;
-  }
+      width: 400px;
+      height: 350px;
+      max-width: 100%;
+      max-height: 100%;
+}
+
+  .Post {
+    border-bottom: 1px solid #fff;
+}
   
-  .compproj-txt {
+  p {
       line-height: 1.2em;
       width: 800px;
       margin: 8px;
       padding-right: 50px;
-      bottom-border: 5px solid #fff;
-  }
-  
-  .weboproj-txt {
-      line-height: 1.89em;
-      width: 1000px;
-      margin: 10px;
-      padding-top: 300px;
-      padding-right: 130px;
-  }
+}
 
 .Xpansetxt {
     line-height: 1.89em;
