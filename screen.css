@@ -25,7 +25,7 @@ body {
 }
 
 .links {
-    padding-left: 800px;
+    padding: 0 0 0 1000px;
     top: 15px; 
     position: absolute;
 }
@@ -37,36 +37,36 @@ h1 {
 }
 
 h2 {
-    padding: 50px;
+    padding: 90px 0 90px 170px;
     margin-left: 500px;
-  
 }
 
 .commplan-txt {
-    padding: 175px;
+    padding: 0 0 75px 300px;
+}
+
+.webproj-txt {
+  padding: 0 0 75px 300px;
 }
   
 .webproj-img {
-    float: right;
-    padding: 50px;
+   padding: 0 0 0 475px;
 }
   
 .webproj-img img {
-    width: 100px;
-    height: 100px;
+    width: 450px;
+    height: 250px;
     max-width: 100%;
     max-height: 100%;
 }
   
 .commplan-img {
-    float: right;
-    margin-right: 50px;
-    padding: 50px;
+    padding: 0 0 0 475px;
 }
   
 .commplan-img img {
-    width: 100px;
-    height: 100px;
+    width: 450px;
+    height: 250px;
     max-width: 100%;
     max-height: 100%;
 }
@@ -75,7 +75,6 @@ p {
     line-height: 1.2em;
     width: 800px;
     margin: 8px;
-    padding-right: 50px;
 }
 
 .Xpansetxt {
